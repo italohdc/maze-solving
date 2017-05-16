@@ -17,8 +17,6 @@ Developed for the **[RoboCup](http://www.robocup.org/) Rescue Maze Competition**
 
 ## Run the code
 
-This is just a beta code and will be soon ported to C++.
-
 In order to use a similar language available in the Arduino IDE, this code was
 made using the sofware sketchbook Processing.
 

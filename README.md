@@ -20,7 +20,7 @@ Developed for the **[RoboCup](http://www.robocup.org/) Rescue Maze Competition**
 In order to use a similar language available in the Arduino IDE, this code was
 made using the sofware sketchbook Processing.
 
-To compile the code, it's necessary to install **Processing 2.2.1**.
+To compile the code, it's recommended to install **Processing 2.2.1**.
 
 [Download Processing](http://processing.org/download/)
 

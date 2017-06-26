@@ -6,6 +6,10 @@ Emulate a robot in a maze enviroment, finding the best route to move from a poin
 
 You can see more about the **A\* Search Algorithm** in the book [_Artificial Intelligence: A Modern Approach_](http://aima.cs.berkeley.edu/) by _Stuart Russell and Peter Norvig_.
 
+### Code Running
+
+[![Youtube Preview](/_pics/yt_preview.png)](https://youtu.be/kW7m7xmpSxM)
+
 
 ## Team
 
